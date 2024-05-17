@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Mulish", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: lightblue;
+}
+
+.a{
+  border-radius: 50px;
+  height: 40px;
+  padding-inline-start: 10px;
+  margin-inline-end: 10px;
+}
+
+button{
+  height: 40px;
+  border-radius: 50px;
+  width: 100px;
+}
